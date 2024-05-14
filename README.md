@@ -1,7 +1,3 @@
-# README
-Read about Ujjwal Kakade
-
-
 👋 Hi, I'm @ujjwalkakade09 / Ujjwal Kakade
 🔍 Master of Science in Advanced Computer Science at the University of Hertfordshire, graduated in July 2020.
 💡 I bring over 2 years of experience in data analysis, cloud engineering, and dashboard development.
